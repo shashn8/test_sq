@@ -1,0 +1,23 @@
+Script started on 2023-04-14 12:39:12+05:30 [<not executed on terminal>]
+tree 1205e215ad8537172281889793950369754ccb71
+parent e03344721cbff50c06330a06bbc4f129f746ff48
+author Shashidhar Naraparaju <shashnarapa@gmail.com> 1681456152 +0530
+committer Shashidhar Naraparaju <shashnarapa@gmail.com> 1681456152 +0530
+
+sq
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ tree 1205e215ad8537172281889793950369754ccb71
+1205e215ad8537172281889793950369754ccb71 [error opening dir]
+
+0 directories, 0 files
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ parent e03344721cbff50c06330a06bbc4f129f746ff48
+parent: command not found
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ author Shashidhar Naraparaju <shashnarapa@gmail.com> 1681456152 +0530
+bash: shashnarapa@gmail.com: No such file or directory
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ committer Shashidhar Naraparaju <shashnarapa@gmail.com> 1681456152 +0530
+bash: shashnarapa@gmail.com: No such file or directory
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ 
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ sq
+sq: command not found
+]0;shashidhar@kubernetes-master: ~/scriptworks/test_sq[01;32mshashidhar@kubernetes-master[00m:[01;34m~/scriptworks/test_sq[00m$ exit
+
+Script done on 2023-04-14 12:41:30+05:30 [COMMAND_EXIT_CODE="0"]
